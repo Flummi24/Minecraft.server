@@ -1,0 +1,8 @@
+command-block-overrides: []
+ignore-vanilla-permissions: false
+aliases:
+  icanhasbukkit:
+  - version $1-
+
+  sub:
+  - tell $$1 https://youtube.com/@any_cube?subconfirmation=1

@@ -105,6 +105,8 @@ world-settings:
     hopper-amount: 1
     hopper-can-load-chunks: false
     dragon-death-sound-radius: 0
+  worldeditregentempworld:
+    verbose: false
 settings:
   timeout-time: 60
   restart-on-crash: true
